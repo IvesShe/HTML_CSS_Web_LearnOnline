@@ -2,6 +2,8 @@
 
 # Github展示
 
+本網頁製作為學習使習，若有侵權請告知，謝謝！
+
 https://ivesshe.github.io/HTML_CSS_Web_LearnOnline/
 
 ![image](./images/image2021-03-2220.47.27.png)
