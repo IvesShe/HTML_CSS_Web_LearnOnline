@@ -4,6 +4,8 @@
 
 https://ivesshe.github.io/HTML_CSS_Web_LearnOnline/
 
+![image](./images/image2021-03-2220.47.27.png)
+
 # 頁面布局整體思路
 
 為了提高網頁制作的效率，布局通常有以下的整體思路∶
